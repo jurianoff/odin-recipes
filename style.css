@@ -1,0 +1,48 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: wheat;
+}
+h1,
+h2 {
+    font-weight: bold;
+}
+
+.indexImg {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.recipeImg {
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: 400px;
+}
+
+li {
+    text-align: left;
+}
+
+.description {
+    text-align: left;
+}
+
+.motto {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: coral;
+    color: khaki;
+}
+
+.menu li {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 50px;
+}
